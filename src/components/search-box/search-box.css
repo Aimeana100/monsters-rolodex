@@ -1,0 +1,18 @@
+.search__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search{
+    border: none;
+    outline: none;
+    padding: 10px;
+    min-width: 150px;
+    line-height: 30px;
+    margin: 30px 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+
+
+}
